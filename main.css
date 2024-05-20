@@ -1,0 +1,39 @@
+
+
+
+.carousel {
+    padding: 0 6%;
+}
+
+.carousel-item img {
+    width: 100%;
+    max-height: 100%;;
+    object-fit: cover;
+}
+
+.carousel-inner {
+    height: 100vh;
+    
+}
+
+
+.card {
+    margin-top: 20px;
+    
+}
+
+
+.card img {
+    object-fit: cover;
+    height: 414px;
+    width: 100%;
+}
+
+footer h5 {
+    color:rgb(223, 99, 10);
+    font-weight: bold;
+}
+
+.principal{
+    height: 80vh;
+}
